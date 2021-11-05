@@ -6,4 +6,4 @@ Auth:<br>
 <br>
 Ticket:<br>
 /tickets/ - (GET) get tickets, (POST) - create ticket.<br>
-/tickets/<id>/ - (GET) get ticket with <id>, (PUT, PATCH, DELETE) update/delete ticket.<br>
+/tickets/id/ - (GET) get ticket with id, (PUT, PATCH, DELETE) update/delete ticket.<br>
